@@ -1,6 +1,5 @@
 # Projet_Power_BI
-
-# Analyse des DPE des Logements dans le Rhône
+Analyse des DPE des Logements dans le Rhône
 
 # Objectif de l'application
 
