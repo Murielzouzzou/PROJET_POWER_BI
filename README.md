@@ -9,7 +9,7 @@ L'application suivante est un outil de suivi des performances énérgétiques de
 
 Les données recueillies en fichier csv sur le site de l'ADEME ont été traité dans l'environnment Power Query de Power Bi. Les différentes manipulations effectuées sont :
 
-- Pour la recueil : Rstudio
+- Pour la recueil : Rstudio avec une boucle FOR qui va intérroger l'API ramène des données qui alimentent dans un fichier csv qui par la suite deviendra notre base de données (les données ont été filtré sur le code postal du code à savoir *69%*)
 
 - Power Query :
     Nettoyage: suppressions des colonnes inutiles, transformations des données, Changements du type de colonnes, colonne calculée et conditionnelle.
