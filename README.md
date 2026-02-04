@@ -40,7 +40,15 @@ Nos sources :
 
 # Lien POWER BI :
 https://app.powerbi.com/links/m5LkVufUFB?ctid=a51a6642-5911-4306-a13c-f4731ab9c63f&pbi_source=linkShare
-
+Quelques captures au cas ou le lien est inactif:
+<img width="1916" height="1071" alt="image" src="https://github.com/user-attachments/assets/73706d0a-c77e-4ccd-89e4-ecf49edb3ab7" />
+<img width="1718" height="857" alt="image" src="https://github.com/user-attachments/assets/8ce7c125-dbe8-4ecf-a71e-2aa0eefb094a" />
+<img width="1733" height="821" alt="image" src="https://github.com/user-attachments/assets/04f48323-1bd1-4eb5-9080-82c17c92f184" />
+<img width="1766" height="727" alt="image" src="https://github.com/user-attachments/assets/67728fb2-93fb-4630-bc97-9d608b981bb7" />
+<img width="1430" height="695" alt="image" src="https://github.com/user-attachments/assets/56bad9bc-4f9e-439d-bee5-acf1da867db9" />
+<img width="1506" height="702" alt="image" src="https://github.com/user-attachments/assets/c2879ff4-2325-4a58-8109-3352c9cbeb77" />
+<img width="1078" height="754" alt="image" src="https://github.com/user-attachments/assets/0d59bd2b-d0ca-46ea-852e-9dcee764fcc1" />
+<img width="1497" height="782" alt="image" src="https://github.com/user-attachments/assets/fb031519-f6d7-45f7-aeea-852ad75b98e6" />
 
 # Maquette Figma : 
 https://www.figma.com/design/SQTDi0YeaCO2qtKXRLOUsD/DPE_Muriel_Mesmin?node-id=0-1&t=UZST3irPMjIhyobB-1
